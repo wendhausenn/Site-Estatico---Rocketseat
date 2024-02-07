@@ -1,7 +1,7 @@
 <h1 align="center"> DevLinks </h1>
  🔖 Layout
 
-<img src="/images/treinemelayout.png">
+<img src="/images/layoutfoto.png">
 
 <p align="center">
 Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
